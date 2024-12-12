@@ -1,7 +1,6 @@
 from cv2 import phase
 import speech_recognition as sr
 
-
 from Speak import Say
 yousaid=""
 
