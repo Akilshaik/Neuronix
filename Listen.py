@@ -25,6 +25,7 @@ def Listen():
         Say("Say that again please....")
         return "none"    
 
+    
     query = str(query)
     return query.lower()   
 
